@@ -1,3 +1,9 @@
+## 🔗 Useful Links
+
+[![Colab Link](https://colab.research.google.com/drive/1pdNqR57DliJH2Ah5o0BzmfVMaOAMyCsp?usp=sharing)
+
+📁 [Google Drive](https://drive.google.com/drive/folders/1WzIjKoy_kyDdvO1k2P2PaRmJBDorAu_f?usp=sharing)
+
 # Summary
 >The highest trading volumes were consistently recorded during periods of Fear. This suggests that traders are most active not during stable markets, but during times of uncertainty and downturns, likely capitalizing on volatility.
 
