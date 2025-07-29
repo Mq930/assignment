@@ -1,6 +1,6 @@
 ## 🔗 Useful Links
 
-[![Colab Link](https://colab.research.google.com/drive/1pdNqR57DliJH2Ah5o0BzmfVMaOAMyCsp?usp=sharing)
+[ Colab Link ](https://colab.research.google.com/drive/1pdNqR57DliJH2Ah5o0BzmfVMaOAMyCsp?usp=sharing)
 
 📁 [Google Drive](https://drive.google.com/drive/folders/1WzIjKoy_kyDdvO1k2P2PaRmJBDorAu_f?usp=sharing)
 
